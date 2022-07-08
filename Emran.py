@@ -4,7 +4,7 @@ username = input("Enter Your Username: ")
 password = getpass("Enter Your Password: ")
 
 
-if username == "amjad" and password == "maktab78":
+if username == "amjad 2" and password == "maktab78":
    pass
 if username == "asghar" and password == "maktab78":
 
